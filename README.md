@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Janez Vegan
 - 👀 I'm interested in climbing, mountaineering, cycling, looking for new experience
-- 🌱 I
+- 🌱 
 - 💞
 
 <!---

@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @janezv 
-- 👀 I'm interested in climbing, mountaineering, cycling, looking for new experience and coding in .Net Angular SQL 
-- 🌱 I’m currently learning .NET 5 Angular and Android
-- 💞️ I’m looking to collaborate on .Net and javaScript
-- 📫 Reach me on mail janez.vegan@gmail.com
+- 👋 Hi, I’m Janez Vegan
+- 👀 I'm interested in climbing, mountaineering, cycling, looking for new experience
+- 🌱 I
+- 💞
 
 <!---
 janezv/janezv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
